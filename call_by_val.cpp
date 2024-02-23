@@ -1,3 +1,5 @@
+ //call by reference means the value is called by address  not by value 
+//Syntax :- 
 #include<iostream>
 using namespace std;
 void swap(int a,int b){
