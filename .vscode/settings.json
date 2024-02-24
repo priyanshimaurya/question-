@@ -3,6 +3,7 @@
         "*html": "html",
         "html": "",
         "*.py": "python",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
